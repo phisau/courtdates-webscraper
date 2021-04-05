@@ -4,17 +4,28 @@ Courtdates Webscraper
 
 This program searches for courtdates in North Carolina counties and downloads the text-files. The configuration file is courtconfig.py. You may list your counties there. Then start the program with ``python scheduler.py``.
 
-Steps to install:
+Install requirements
+====================
 
 Create and activate a virtual environment:
+
 ``python3 -m virtualenv venv``
+
 ``source venv/bin/activate``
 
 Download beatiful soup and requests:
+
 ``python -m pip install beautifulsoup4``
+
 ``python -m pip install requests``
 
-Edit the config-file like
+
+Configuration file
+==================
+
+The configuration file is courtconfig.py. It contains the server, which is being queried, the counties, which are being downloaded, and the names which should get queried and an html output generated. 
+
+Edit the config-file courtconfig.py to something like the following
 
 .. code-block:: Python
 
@@ -34,4 +45,13 @@ Edit the config-file like
         "polk",
     ]
 
+
+scheduler
+=========
+
+The scheduler consists of 3 tasks:
+
+1. source the config file
+2. download the text files for each county in the config file.
+3. generate an html output for each name-pair in the config file
 
