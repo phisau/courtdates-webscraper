@@ -16,7 +16,7 @@ Download beatiful soup and requests:
 
 Edit the config-file like
 
-.. code-block::Python
+.. code-block:: Python
 
     """
     Add your names and county list here
