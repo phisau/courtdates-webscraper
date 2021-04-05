@@ -1,0 +1,141 @@
+
+  RUN DATE: 02/24/21                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: LEXINGTON NC         DISTRICT COURT DIVISION       COUNTY OF DAVIDSON
+
+          COURT DATE: 03/12/21        TIME: 09:00 AM        COURTROOM NUMBER: DC09
+
+                  AGENCY 2 WEEK ADVANCED DISTRICT CALENDAR LEXINGTON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     1  20CR 055558 ALLRED,LOGAN,TYLER    HOWELL,LONNIE,     ATTY:WAIVED
+        (M)SIMPLE ASSAULT                   PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+
+
+     2  20CR 052393 BLEVINS,SCOTTY,WAYNE  SNYDER,SAMUEL,
+                    BOND:        $500 SEC
+        (M)MISDEMEANOR LARCENY              PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+     3  19CR 054831 DAVIS,ROBERT,BRANSON, ALLEN,J        DPD ATTY:PATRICK,NICHOLA
+                    BOND:      $2,000 SEC
+        (M)BREAKING OR ENTERING (M)         PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+     4  20CR 055816 JOHNSON,ADRIENNE,PATR CRAVEN,A       LPD
+              AKA: JOHNSON,ADRIENNE,P
+                   ********  DEFENDANT NEEDS TO BE FINGERPRINTED
+                    BOND:      $5,000 SEC
+        (F)FELONY LARCENY                   PLEA:                VER:
+        CLS:H  P:   L:                  JUDGMENT:
+
+
+
+
+     5  20CR 054396 REDNER,STEVEN,KEITH   MORRIS,CHARLEN
+        (M)ASSAULT ON A FEMALE              PLEA:                VER:
+        CLS:A1 P:   L:                  JUDGMENT:
+1                             DISTRICT COURT CALENDAR                    PAGE:    2
+
+          COURT DATE: 03/12/21        TIME: 09:00 AM        COURTROOM NUMBER: DC09
+
+  NO.  FILE NUMBER DEFENDANT NAME        COMPLAINANT       ATTORNEY               CONT
+  *************************************************************************************
+
+     6  16CR 054645 RHOTON,JONI,MILLER    MCHENRY,S      SHP ATTY:SELF
+                    BOND:      $1,000 SEC
+        (M)UNSUPERVISED PROB VIOL FAIL TO   PLEA:                VER:       6677830
+        CLS:   P:   L:                  JUDGMENT:                           ADA: LES
+
+
+
+
+     7  17CR 056134 TAYLOR,FREDERICK,MITC BLAKE,W        SFF
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:
+                                        JUDGMENT:                           ADA: PSD
+
+
+
+
+     8  16CR 000073 WHITAKER,MISTY,DAWN   CLAYTON,B      LPD
+                    BOND:        $250 CSH
+        (M)UNSUP VIOL-FAIL PAY MONIES       PLEA:                VER:       C1673614
+        CLS:   P:   L:                  JUDGMENT:                           ADA: PTC
+
+
+
+
+     9  20CR 055126 WILLIAMS,BROOKE       BURROW,CHRISTO
+        (M)FIRST DEG TRESP ENTER/REMAIN     PLEA:                VER:
+        CLS:2  P:   L:                  JUDGMENT:
+
+
+
+
+        (M)INJURY TO PERSONAL PROPERTY      PLEA:                VER:
+        CLS:   P:   L:                  JUDGMENT:
+
+
+
+
+        (M)INJURY TO REAL PROPERTY          PLEA:                VER:
+        CLS:1  P:   L:                  JUDGMENT:
+
+
+
+
+    10  18CR 055172 WILSON,LASHANTHA,SHOM HARTMAN,B      LPD
+        (M)MISDEMEANOR PROBATION VIOL       PLEA:                VER:
+                                        JUDGMENT:                           ADA: DNC
+1 RUN DATE: 02/24/21                                                        PAGE   1
+                             IN THE GENERAL COURT OF JUSTICE
+  LOCATION: LEXINGTON NC         DISTRICT COURT DIVISION       COUNTY OF DAVIDSON
+
+          COURT DATE: 03/12/21        TIME: 09:00 AM        COURTROOM NUMBER: DC09
+
+                  AGENCY 2 WEEK ADVANCED DISTRICT CALENDAR LEXINGTON
+
+                     JUDGE PRESIDING :
+                     COURTROOM CLERK :
+                     PROSECUTOR      :
+                                     :
+                                     :
+                                     :
+                                     :
+
+  NO. DEFENDANT NAME          OFFENSE                        COMPLAINANT FILE NUMBER
+  *************************************************************************************
+       1 ALLRED,LOGAN,TYLER     SIMPLE ASSAULT                 HOWELL,LONN 20CR 055558
+       2 BLEVINS,SCOTTY,WAYNE   MISDEMEANOR LARCENY            SNYDER,SAMU 20CR 052393
+       3 DAVIS,ROBERT,BRANSON,I BREAKING OR ENTERING (M)       ALLEN,J     19CR 054831
+  **   4 JOHNSON,ADRIENNE,PATRE FELONY LARCENY                 CRAVEN,A    20CR 055816
+       5 REDNER,STEVEN,KEITH    ASSAULT ON A FEMALE            MORRIS,CHAR 20CR 054396
+       6 RHOTON,JONI,MILLER     UNSUPERVISED PROB VIOL FAIL TO MCHENRY,S   16CR 054645
+       7 TAYLOR,FREDERICK,MITCH MISDEMEANOR PROBATION VIOL     BLAKE,W     17CR 056134
+       8 WHITAKER,MISTY,DAWN    UNSUP VIOL-FAIL PAY MONIES     CLAYTON,B   16CR 000073
+       9 WILLIAMS,BROOKE        FIRST DEG TRESP ENTER/REMAIN   BURROW,CHRI 20CR 055126
+                                INJURY TO PERSONAL PROPERTY    BURROW,CHRI 20CR 055126
+                                INJURY TO REAL PROPERTY        BURROW,CHRI 20CR 055126
+      10 WILSON,LASHANTHA,SHOMO MISDEMEANOR PROBATION VIOL     HARTMAN,B   18CR 055172
+
+  * MISSING/INVALID CHECK DIGIT
+ ** DEFENDANT NEEDS TO BE FINGERPRINTED

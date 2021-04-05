@@ -1,0 +1,13 @@
+scheduler:
+        tmp/all_urls.txt
+        tmp/good_urs.txt
+
+        get_url_list.
+
+        clean_all_urls
+        save_urls
+
+        loopy
+                attorney_search
+                        import group_dataset (this has moved to db)
+

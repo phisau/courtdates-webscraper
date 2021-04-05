@@ -1,0 +1,5 @@
+courtconfig.py
+to_delete/
+html/*
+files/*
+htmlcov/
