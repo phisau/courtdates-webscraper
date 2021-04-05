@@ -22,7 +22,7 @@ start_time = datetime.now()
 #        makedirs(path.join(directory, "old"))
 #
 # Add your names (search patterns into the following line
-name_list = courtconfig.name_list
+#name_list = courtconfig.name_list
 county_list = courtconfig.county_list
 
 # This module calls the Forsyth county homepage
@@ -39,8 +39,9 @@ county_list = courtconfig.county_list
 
 
 # Writes all urls on the root page of the NC Courtpage to "tmp/all_urls.txt"
-for county in county_list:
-    get_url_list.main(county)
+#for county in county_list:
+#    print(county)
+#    get_url_list.main(county)
 
 # Run for attorneys and counties
 # for name in name_list:

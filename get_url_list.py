@@ -25,7 +25,7 @@ def get_urls(county="FORSYTH"):
         #        "http://www1.aoc.state.nc.us/www/calendars/Criminal.jsp?county=" + county
         #        "http://moma"
     )
-    import ipdb; ipdb.set_trace()
+#    import ipdb; ipdb.set_trace()
     # Here we do Beatiful Soup
     county_request = requests.get(county_url)
     county_text = county_request.text
@@ -74,7 +74,7 @@ def generate_filename(url, county):
             + fn.group(9)
             + ".txt"
         )
-        filepath = join(directory, county, filename)
+        filepath = join(directory, filename)
 
     except AttributeError:
         """
@@ -98,7 +98,7 @@ def download_file(url):
         raise Exception(url, " : Server not reachable")
 
 
-def save_urls(good_urls, county=None):
+def save_urls(good_urls, county='FORSYTH'):
     assert type(good_urls) == type(["list"])
     root_url = courtconfig.root_url
     #"http://www1.aoc.state.nc.us"
@@ -111,7 +111,7 @@ def save_urls(good_urls, county=None):
         url_r = download_file(url)
 
         decode_r = url_r.read().decode("utf-8")
-        filename, filepath = generate_filename(url)
+        filename, filepath = generate_filename(url, county)
         with open(filepath, "w") as file_from_server:
             for line in decode_r:
                 file_from_server.write(line)
