@@ -13,23 +13,6 @@ name_list = courtconfig.name_list
 county_list = courtconfig.county_list
 start_time = datetime.now()
 
-<<<<<<< HEAD
-#for county in county_list:
-#    directory = path.join(getcwd() ,"/files", county.upper())
-#
-#
-#if not path.exists(directory):
-#   makedirs(directory)
-#
-#   if not path.exists(path.join(directory, "old")):
-#       makedirs(path.join(directory, "old"))
-#
-
-# Writes all urls on the root page of the NC Courtpage to "tmp/all_urls.txt"
-for county in county_list:
-    print(county)
-=======
-
 # IF NO FILE DIRECTORY EXIST, THEN CREATE THEM
 # directory = getcwd() + "/files"
 # print(path.exists(path.join(directory, "old")))
@@ -42,15 +25,9 @@ for county in county_list:
 #        makedirs(path.join(directory, "old"))
 
 
-# Add your names (search patterns into the following line
-name_list = courtconfig.name_list
-county_list = courtconfig.county_list
-
-
 # Writes all urls on the root page of the NC Courtpage to "tmp/all_urls.txt"
 for county in county_list:
     print(county, " is being processed. Files are downloaded.")
->>>>>>> 96559c69652206bc73f5e175b7c913eba6065e91
     get_url_list.main(county)
 
 # Generate html files for attorneys and counties
