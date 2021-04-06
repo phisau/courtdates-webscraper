@@ -32,15 +32,13 @@ def main(name="hester", county="forsyth"):
 #        room = group_county_date_room.group(5)
 #        group_dataset.main(date, room, sub_page)
         with open(join(directory, sub_page), "r") as sp:
-#            print(sp.read())
+            print(sub_page)
             date_search = re.search(".*(COURT DATE: )(\d\d)/(\d\d)/(\d\d).*", sp.read())
-            date = date_search.group(2) + "/" + date_search.group(3)
-        with open(join(directory, sub_page), "r") as sp:
-            room_search = re.search("(COURTROOM NUMBER: )(\S+).*", sp.read())
-            room = room_search.group(2)
-            print(room)
+            date = date_search.group(3) + "/" + date_search.group(4)
+            room_search = re.search("COURTROOM NUMBER: (.4)", sp.read())
 
-        with open(join(directory, sub_page), "r") as sp:
+            room = room_search.group(1)
+
             matches = re.findall("\n.+" + re.escape(name) + ".+\n.+\n.+\n", sp.read())
             # recheck if None or empty or [] or whatever
             if matches is not None:

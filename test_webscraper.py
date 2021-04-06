@@ -39,7 +39,8 @@ def test_connectivity():
     """
     county_url = (
         #       "http://www1.aoc.state.nc.us/www/calendars/Criminal.jsp?county=" + county
-        "http://moma"
+               "http://www1.aoc.state.nc.us" 
+        #"http://moma"
     )
 
     county_request = requests.get(county_url)

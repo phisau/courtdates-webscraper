@@ -43,7 +43,7 @@ def write_html(name):
     
     footer = "\n </body>\n</html>"
     s = frame() + body(name) + footer
-    index = open(join("html", name + ".html"), "a")
+    index = open(join("html", name + ".html"), "w")
     index.write(s)
     index.close()
 
