@@ -4,3 +4,6 @@ to_delete/
 html/*
 files/*
 htmlcov/
+venv/
+py38/
+py39/
